@@ -13,6 +13,7 @@ struct Deal{
 
 void Suspici0us(){
   system("/bin/sh");
+  //or system("/bin/cat ~");
 }
 
 void Purchase(name, pr){
